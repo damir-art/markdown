@@ -1,7 +1,7 @@
 # Язык Markdown &ndash; справочник по языку
 
 [Корень](https://damir-art.github.io)<br />
-[Markdown](https://github.com/damir-art/damir-art.github.io)
+[Markdown](https://github.com/damir-art/damir-art.github.io)<br />
 [Репозиторий](https://github.com/damir-art/damir-art.github.io)
 
 Markdown (произносится маркдаун) - это облегчённый язык разметки. В нём можно также писать и на HTML.
